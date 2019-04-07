@@ -20,7 +20,7 @@ compile on your dependencies
 
 ```
 dependencies {
-	compile 'com.github.blennerSilva:AwesomeDialog:2.0.5'
+	implementation 'com.github.blennerSilva:AwesomeDialog:2.0.5'
 }
 ```
 
